@@ -1,3 +1,4 @@
 # image-processing
 image used for most of the operations
-![DIP_img](https://user-images.githubusercontent.com/76468063/216784183-579fc959-1443-498f-b1c9-97a3dbf88160.jpg)
+![image](https://user-images.githubusercontent.com/76468063/216784689-43fb4912-ce8d-4ce7-b798-1da99e85c122.png)
+
