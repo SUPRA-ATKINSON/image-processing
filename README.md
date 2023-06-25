@@ -3,21 +3,24 @@
 ***below are the lab experiments corresponding to each file(ex: lab-1, lab-2) respectively*
 *written in Matlab***
 
-Lab Experiment 1: 
+**Lab Experiment 1:** 
 Perform the following operations using library functions 
-a. Read, Display, and write any color image in other formats. b. Find RED, GREEN and BLUE plane of the color image. c. Convert color image to grayscale image and binary image
+a. Read, Display, and write any color image in other formats. 
+b. Find RED, GREEN and BLUE plane of the color image.
+c. Convert color image to grayscale image and binary image
 d. Resize the image by one half and one quarter. i.e. Image rotates by 45, 90 and 180 degrees. 
 
 
-Lab Experiment 2:
-Create black and white images (A) of size 1024x1024. Which consists of alternative horizontal lines of black and white? Each line is of size 128. Create black and white images (B) of size 1024x1024. Which consists of alternative vertical lines of black and white? Each line is of size128. Perform the following operations on Image A and Image B. a. Image addition of A and B 
+**Lab Experiment 2:**
+Create black and white images (A) of size 1024x1024. Which consists of alternative horizontal lines of black and white? Each line is of size 128. Create black and white images (B) of size 1024x1024. Which consists of alternative vertical lines of black and white? Each line is of size128. Perform the following operations on Image A and Image B. 
+a. Image addition of A and B 
 b. Subtraction of A and B 
 c. Multiplying Images of A and B 
 d. Create a grayscale image of size 256 x 1024. Intensity of image should vary sinusoidally. 
 e. Create a white image of size 256x256, with black box of size 58x58 at centre. 
 
 
-Lab Experiment 3:
+**Lab Experiment 3:**
 Develop programs for following intensity transformation operation on a grayscale image. Collect any gray scale image from any source. Process that image using these operations.
 a. Image negative 
 b. Log transformation and inverse log transform: s = c log (1+r), c is a const, r ≥ 0. s is pixel intensity of output image, r is the pixel intensity of input image. Study the effect of constant c on the quality of output image. 
@@ -26,7 +29,7 @@ d. Contrast stretching
 e. Gray level slicing
 
 
-Lab Experiment 4:
+**Lab Experiment 4:**
 Develop programs for following spatial filtering operations on a grayscale image. 
 a. Averaging: Implement averaging filtering operations for different window sizes and study their effect on the quality of output image. Write your observations on output image quality. 
 b. Weighted averaging: Implement weighted averaging filtering operations for different window sizes and study their effect on the quality of output image. Write your observations on output image quality. 
@@ -35,8 +38,9 @@ d. Max filtering
 e. Min filtering 
 
 
-Lab Experiment 5:
-Take a grayscale image and add salt and pepper noise. Write programs for following operations and observe their outputs a. Linear smoothing or Image averaging 
+**Lab Experiment 5:**
+Take a grayscale image and add salt and pepper noise. Write programs for following operations and observe their outputs 
+a. Linear smoothing or Image averaging 
 b. Weighted averaging 
 c. Median filtering. Compare the output quality among Image averaging and median filtering. 
 d. Max filtering 
